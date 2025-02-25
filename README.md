@@ -11,7 +11,6 @@ GitHub is a cloud-based Git repository hosting service that supports collaborati
     Issue tracking for fixes and feature enhancements
 Code review pull requests
     CI/CD support via continuous integration
-
 Version control maintains project integrity by:
 
     Preventing accidental overwrites
